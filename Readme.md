@@ -1,4 +1,4 @@
-# Project Name : Periodic Table ![Tech Stack Used](https://img.shields.io/badge/Technologies-HTML-blue)
+# Project Name : Flex Layout Assessment ![Tech Stack Used](https://img.shields.io/badge/Technologies-HTML-blue)
 
 ---
 
